@@ -10,9 +10,7 @@ Welcome to the Nike-themed landing page project! This project is a visually appe
 5. [Usage](#usage)
 
 ## Project Overview
-This project recreates a Nike-branded landing page that highlights products, customer testimonials, and subscripv# Nike-Themed Landing Page
-
-Welcome to the Nike-themed landing page project! This project is a visually appealing, fully responsive web page built with Vite, React, and Tailwind CSS.
+This project recreates a Nike-branded landing page that highlights products, customer testimonials etc
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
